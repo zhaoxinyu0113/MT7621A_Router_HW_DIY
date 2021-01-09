@@ -1,0 +1,13 @@
+Added Component: Designator=J7(USB3.0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5VD Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=NetJ7_5 Pin=J7-5
+Added Pin To Net: NetName=NetJ7_6 Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=NetJ7_8 Pin=J7-8
+Added Pin To Net: NetName=NetJ7_9 Pin=J7-9
+Added Member To Class: ClassName=Sheet Member=Component J7 USB3.0
+Added Room: Name=Sheet

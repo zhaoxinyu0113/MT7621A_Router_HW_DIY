@@ -1,0 +1,9 @@
+Added Component: Designator=J11(PCIe_x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J12(PCIe_x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(PCIe_x1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet Member=Component J11 PCIe_x1
+Added Member To Class: ClassName=Sheet Member=Component J12 PCIe_x1
+Added Member To Class: ClassName=Sheet Member=Component J13 PCIe_x1

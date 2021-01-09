@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=ND_D7 Pin=P8-15
+Added Pin To Net: NetName=JTAG_CLK Pin=P8-18
+Added Pin To Net: NetName=JTAG_RST Pin=P8-19
+Added Pin To Net: NetName=JTAG_DI Pin=P8-20
+Added Pin To Net: NetName=JTAG_DO Pin=P8-21
+Added Pin To Net: NetName=JTAG_MS Pin=P8-22
+Added Pin To Net: NetName=PCIE_CK0_M Pin=P8-24
+Added Pin To Net: NetName=PCIE_CK0_P Pin=P8-25
+Added Pin To Net: NetName=PCIE_TX0_P Pin=P8-26
+Added Pin To Net: NetName=PCIE_TX0_M Pin=P8-27
+Added Pin To Net: NetName=PCIE_RXN0 Pin=P8-28
+Added Pin To Net: NetName=PCIE_RXP0 Pin=P8-29
+Added Pin To Net: NetName=WPS Pin=P8-30
+Added Pin To Net: NetName=PCIE_CK1_P Pin=P8-31
+Added Pin To Net: NetName=PCIE_CK1_M Pin=P8-32
+Added Pin To Net: NetName=PCIE_RXN1 Pin=P8-33
+Added Pin To Net: NetName=PCIE_RXP1 Pin=P8-34
+Added Pin To Net: NetName=PCIE_TX1_M Pin=P8-35
+Added Pin To Net: NetName=PCIE_TX1_P Pin=P8-36
+Added Room: Name=Sheet

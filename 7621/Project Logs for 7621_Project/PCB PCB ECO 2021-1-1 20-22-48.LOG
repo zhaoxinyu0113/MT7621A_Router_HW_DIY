@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=Sheet Member=J6
+Change Component Designator: OldDesignator=J2 NewDesignator=J9
+Change Component Designator: OldDesignator=J3 NewDesignator=J7
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J3
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-14
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ7_2
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetJ3_5 New Net Name=NetJ7_5
+Change Net Name : Old Net Name=NetJ3_6 New Net Name=NetJ7_6
+Change Net Name : Old Net Name=NetJ3_8 New Net Name=NetJ7_8
+Change Net Name : Old Net Name=NetJ3_9 New Net Name=NetJ7_9
+Change Net Name : Old Net Name=NetJ3_11 New Net Name=NetJ7_11
+Change Net Name : Old Net Name=NetJ3_12 New Net Name=NetJ7_12
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=NetJ2_6
+Change Net Name : Old Net Name=NetJ4_7 New Net Name=NetJ2_7
+Change Net Name : Old Net Name=NetJ4_8 New Net Name=NetJ2_8
+Change Net Name : Old Net Name=NetJ4_9 New Net Name=NetJ2_9
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ6_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ6_5 New Net Name=NetJ4_5
+Change Net Name : Old Net Name=NetJ6_6 New Net Name=NetJ4_6
+Change Net Name : Old Net Name=NetJ6_7 New Net Name=NetJ4_7
+Change Net Name : Old Net Name=NetJ6_8 New Net Name=NetJ4_8
+Change Net Name : Old Net Name=NetJ6_9 New Net Name=NetJ4_9
+Change Net Name : Old Net Name=NetJ7_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ7_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetJ7_5 New Net Name=NetJ3_5
+Change Net Name : Old Net Name=NetJ7_6 New Net Name=NetJ3_6
+Change Net Name : Old Net Name=NetJ7_7 New Net Name=NetJ3_7
+Change Net Name : Old Net Name=NetJ7_8 New Net Name=NetJ3_8
+Change Net Name : Old Net Name=NetJ7_9 New Net Name=NetJ3_9
+Added Member To Class: ClassName=Sheet Member=Component J9 PWR2.5
+Added Room: Name=Sheet

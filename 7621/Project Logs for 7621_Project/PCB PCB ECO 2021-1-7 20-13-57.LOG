@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=CTS3_N Pin=P1-8
+Added Pin To Net: NetName=RTS3_N Pin=P1-8

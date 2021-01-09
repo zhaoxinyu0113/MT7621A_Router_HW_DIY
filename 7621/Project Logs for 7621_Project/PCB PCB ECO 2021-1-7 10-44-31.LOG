@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=RTS2_N Pin=P1-3
+Removed Pin From Net: NetName=CTS2_N Pin=P1-4
+Removed Pin From Net: NetName=TXD3 Pin=P1-5
+Removed Pin From Net: NetName=RXD3 Pin=P1-6
+Removed Pin From Net: NetName=RTS3_N Pin=P1-7
+Removed Pin From Net: NetName=CTS3_N Pin=P1-8
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4X2 New DesignItemId=Header 2X2H
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X4 New Footprint=HDR2X2H
+Change Component Comment : Designator=P1 Old Comment=Header 4X2 New Comment=Header 2X2H
+Added Component: Designator=P2(HDR2X2H)
+Added Pin To Net: NetName=TXD3 Pin=P1-3
+Added Pin To Net: NetName=RXD3 Pin=P1-4
+Added Pin To Net: NetName=RTS2_N Pin=P2-1
+Added Pin To Net: NetName=CTS2_N Pin=P2-2
+Added Pin To Net: NetName=RTS3_N Pin=P2-3
+Added Pin To Net: NetName=CTS3_N Pin=P2-4
+Added Member To Class: ClassName=Sheet Member=Component P2 Header 2X2H

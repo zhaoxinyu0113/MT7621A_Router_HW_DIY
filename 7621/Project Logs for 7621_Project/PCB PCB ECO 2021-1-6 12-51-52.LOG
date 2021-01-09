@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=JTAG_CLK Pin=P2-1
+Removed Pin From Net: NetName=JTAG_RST Pin=P2-2
+Removed Pin From Net: NetName=JTAG_MS Pin=P2-3
+Removed Pin From Net: NetName=JTAG_DO Pin=P2-4
+Removed Pin From Net: NetName=JTAG_DI Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Member From Class: ClassName=Sheet Member=P2
+Added Room: Name=Sheet

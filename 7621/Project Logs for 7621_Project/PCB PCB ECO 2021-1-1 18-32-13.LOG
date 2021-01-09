@@ -1,0 +1,12 @@
+Added Component: Designator=U4(CH340N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ8_3 Pin=U4-1
+Added Pin To Net: NetName=NetJ8_4 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=CH340_RTS Pin=U4-4
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Pin To Net: NetName=NetR13_2 Pin=U4-6
+Added Pin To Net: NetName=CH340_RX Pin=U4-7
+Added Pin To Net: NetName=5V Pin=U4-8
+Added Member To Class: ClassName=Sheet Member=Component U4 CH340N
+Added Room: Name=Sheet

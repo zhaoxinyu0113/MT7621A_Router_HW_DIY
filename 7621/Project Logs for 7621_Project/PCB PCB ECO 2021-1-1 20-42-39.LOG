@@ -1,0 +1,4 @@
+Added Component: Designator=J10(CONSG/54/MINICARD/AS0B22-S68-7F/HALF/FUL)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Sheet Member=Component J10 MINI_PCIE
+Added Room: Name=Sheet
