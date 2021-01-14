@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=JTAG_DI Pin=P2-3
-Removed Pin From Net: NetName=JTAG_MS Pin=P2-5
-Change Component Footprint: Designator=P2 Old Footprint=HDR1X5 New Footprint=HDR2X3_CEN
-Change Component Comment : Designator=P2 Old Comment=Header 5 New Comment=Header 3X2A
-Added Pin To Net: NetName=JTAG_MS Pin=P2-3
-Added Pin To Net: NetName=JTAG_DI Pin=P2-5
-Added Pin To Net: NetName=GND Pin=P2-6
-Added Room: Name=Sheet

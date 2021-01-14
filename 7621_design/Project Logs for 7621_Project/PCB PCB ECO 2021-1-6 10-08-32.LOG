@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=ND_WP Pin=P?-1
-Removed Pin From Net: NetName=ND_WE_N Pin=P?-2
-Removed Member From Class: ClassName=Sheet Member=P?
-Added Component: Designator=P8(HDR2X18)
-Added Pin To Net: NetName=ND_WP Pin=P8-1
-Added Pin To Net: NetName=ND_WE_N Pin=P8-2
-Added Member To Class: ClassName=Sheet Member=Component P8 Header 18X2
-Added Room: Name=Sheet

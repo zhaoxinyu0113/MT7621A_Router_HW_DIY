@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=5VD Pin=P2-1
-Removed Pin From Net: NetName=3V3 Pin=P2-3
-Added Pin To Net: NetName=3V3 Pin=P2-1
-Added Pin To Net: NetName=5VD Pin=P2-3
-Added Room: Name=Sheet

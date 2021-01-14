@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=TXD2 Pin=P1-1
-Added Pin To Net: NetName=RXD2 Pin=P1-2
-Added Pin To Net: NetName=RTS2_N Pin=P1-3
-Added Pin To Net: NetName=CTS2_N Pin=P1-4
-Added Pin To Net: NetName=TXD3 Pin=P1-5
-Added Pin To Net: NetName=RXD3 Pin=P1-6
-Added Pin To Net: NetName=RTS3_N Pin=P1-7
-Added Pin To Net: NetName=CTS3_N Pin=P1-8
-Added Room: Name=Sheet

@@ -1,4 +1,0 @@
-Removed Member From Class: ClassName=Sheet Member=P2
-Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR2X4_CEN
-Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 4X2A
-Added Room: Name=Sheet
