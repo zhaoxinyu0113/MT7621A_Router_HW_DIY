@@ -10,6 +10,8 @@ MTK MT7621A Router HW DIY base on HLK-7621A module, Most of the interfaces are l
 No wireless function temporarily(PCIe extension)  
 暂时没有无线功能，可以通过PCIe扩展  
 
+The chost is about 120 CNY  
+成本大概120人民币  
 
 MT7621A模块  
 https://detail.tmall.com/item.htm?spm=a1z0d.6639537.1997196601.136.1cb37484Wn5Xdx&id=607916979618
