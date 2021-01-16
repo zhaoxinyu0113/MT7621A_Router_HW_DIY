@@ -1,5 +1,5 @@
-# MT7621A_Router_HW_DIY(In development)
-# MT7621A_Router_HW_DIY(未完成)
+# MT7621A_Router_HW_DIY(Beta)
+# MT7621A_Router_HW_DIY(评估测试中)
 MTK MT7621A Router HW DIY base on HLK-7621A module, Most of the interfaces are led out, easy to expand  
 基于 HLK-7621模块开发，大部分接口引出
 
