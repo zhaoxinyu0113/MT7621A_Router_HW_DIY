@@ -1,0 +1,9 @@
+CONFIG_TARGET_ramips=y
+CONFIG_TARGET_ramips_mt7621=y
+CONFIG_TARGET_ramips_mt7621_DEVICE_hlk_mt7621a-module=y
+CONFIG_PACKAGE_kmod-nls-base=y
+CONFIG_PACKAGE_kmod-nls-cp936=y
+CONFIG_PACKAGE_luci-theme-argon=y
+CONFIG_PACKAGE_luci-theme-freifunk-generic=y
+CONFIG_PACKAGE_luci-theme-material=y
+CONFIG_PACKAGE_luci-theme-netgear=y
