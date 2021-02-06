@@ -1,0 +1,22 @@
+Added Differential Pair: Name=ESW_P0_A
+Added Differential Pair: Name=ESW_P0_B
+Added Differential Pair: Name=ESW_P0_C
+Added Differential Pair: Name=ESW_P0_D
+Added Differential Pair: Name=ESW_P1_A
+Added Differential Pair: Name=ESW_P1_B
+Added Differential Pair: Name=ESW_P1_C
+Added Differential Pair: Name=ESW_P1_D
+Added Differential Pair: Name=ESW_P2_A
+Added Differential Pair: Name=ESW_P2_B
+Added Differential Pair: Name=ESW_P2_C
+Added Differential Pair: Name=ESW_P2_D
+Added Differential Pair: Name=ESW_P3_A
+Added Differential Pair: Name=ESW_P3_B
+Added Differential Pair: Name=ESW_P3_C
+Added Differential Pair: Name=ESW_P3_D
+Added Differential Pair: Name=ESW_P4_A
+Added Differential Pair: Name=ESW_P4_B
+Added Differential Pair: Name=ESW_P4_C
+Added Differential Pair: Name=ESW_P4_D
+Added Member To Class: ClassName=Sheet Member=Component P2 Header 2
+Added Room: Name=Sheet
